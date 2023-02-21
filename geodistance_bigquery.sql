@@ -1,3 +1,5 @@
+---É possivel utilizar campos com coordenadas geográficas para identificação em massa das distâncias em KM---
+
 WITH COORDINATES_ORIGIN_AND_DESTINATION AS(
 SELECT 
 -23.56126646865952 AS LATITUDE_ORIGIN,
